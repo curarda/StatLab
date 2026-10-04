@@ -1,0 +1,24 @@
+# Sanal ortam
+.venv/
+venv/
+env/
+
+# Python önbelleği
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Derlenen uygulama (build_app.sh ile üretilir)
+StatLab.app/
+build/
+dist/
+
+# İşletim sistemi / editör
+.DS_Store
+.idea/
+.vscode/
+
+# Oturum / çıktı dosyaları
+*.statlab
+*.pdf
+*.xlsx
