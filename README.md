@@ -50,6 +50,6 @@ A packaged macOS app can be built with `build_app.sh` (see `packaging/`).
 
 ## Tech
 
-Python, Streamlit, pandas, statsmodels, SciPy, scikit-learn, Matplotlib.
+Python, Streamlit, pandas, NumPy, SciPy, statsmodels, linearmodels, lifelines, pingouin, scikit-learn, Plotly, Matplotlib, Anthropic API (optional).
 
 The original Turkish documentation is in [README.tr.md](README.tr.md).
